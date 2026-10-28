@@ -2,7 +2,7 @@
 
 <h1>Repositório para PAP: PT-PT</h1>
 
-<h3>Este Repositório tem como abrigar a PAP (Projeto de Aptidão Profissional) incluindo</h3>
+<h3>Este Repositório tem como abrigar o projeto de PAP (Projeto de Aptidão Profissional) incluindo</h3>
 <p><h3>Temas:</h3></p>
 <p><h4>Preparação.</p>
 <p>Implementação.</p>
@@ -42,9 +42,9 @@ Apos a identificação de algum problema com algum link, entrem em contacto em <
 Muito Obrigado!</h3>
 <h1></h1>
 
-<h1>Repository for PAP: EN</h1>
+<h1>PAP Repository: EN</h1>
 
-<h3>This repository will house the PAP (Professional Aptitude Project) including:</h3>
+<h3>This repository will house the PAP project (Professional Aptitude Project) including:</h3>
 <p><h3>Themes:</h3></p>
 <p><h4>Preparation.</p>
 <p>Implementation.</p>
