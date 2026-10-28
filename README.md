@@ -38,4 +38,4 @@ E Sites de pesquisa sobre informações que deram a viablidade de conlcuir o pro
 
 Apos a identificação de algum problema com algum link, entrem em contacto em <em>xxx-xxx-xxx@Gmail.com</em> para reportar quais queres problemas relancioandos com links.
 
-__Muito Obrigado!__</h3>
+Muito Obrigado!</h3>
